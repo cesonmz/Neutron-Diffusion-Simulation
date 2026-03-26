@@ -49,8 +49,6 @@ Explore deterministic methods alongside Monte Carlo (e.g., OpenMC)
 
 AI tools (ChatGPT) were used to assist with:
 
-Code debugging
-Numerical method clarification
-Report structuring
+Code debugging; Numerical method clarification; Report structuring
 
 All physics understanding and final implementation were verified independently.
